@@ -1,6 +1,6 @@
 # Olá, eu sou Otavio Rabello 👋
 
-**Analista de Suporte TI | Desenvolvedor Web | Jornalista | Corretor de Imóveis**  
+**Analista de Suporte TI | Desenvolvedor Web | Ciêntista de Dados |Jornalista | Corretor de Imóveis**  
 📍 São Paulo, SP &nbsp;|&nbsp; 📞 (11) 99378-6996 &nbsp;|&nbsp; ✉️ otavionv10@hotmail.com
 
 ---
@@ -9,7 +9,7 @@
 
 Profissional multidisciplinar com mais de **20 anos em Tecnologia da Informação** e atuação simultânea em jornalismo digital, mercado imobiliário e desenvolvimento de sistemas.
 
-Atualmente atuando como **Analista de Suporte II na Prodesp/Stefanini**, prestando serviços para a Secretaria da Agricultura do Estado de SP, com suporte a mais de 75 cidades.
+Atualmente atuando como **Analista de Suporte II na Prodesp/Stefanini/Ilha Services**, prestando serviços para a Secretaria da Agricultura do Estado de SP, com suporte a mais de 75 cidades.
 
 Nos últimos anos comecei a desenvolver meus próprios sistemas web — plataformas SaaS que resolvo do zero: levantamento de requisitos, banco de dados, back-end PHP, front-end e deploy.
 
@@ -45,11 +45,12 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 - 🎓 Pós-MBA em Jornalismo Digital — **Faculdade Iguaçu** (2025)
 - 🎓 Tecnologia em Banco de Dados — **UNINOVE** (2023)
 - 🎓 Negócios Imobiliários — **Estácio** (2021)
-- 📖 Ciência de Dados (Cursando) — CRAN Faculdade
+- 📖 Ciência de Dados (Cursando) — **CRAN Faculdade**
+- 📖 Neurociências Cognitivas e Processos Psicológicos (Cursando) — **Faculdade Iguaçu** (2025)
 
 ---
 
-## 🏆 Certificações em andamento
+## 🏆 Certificações em andamento - Cursos realizados prendente de fazer as provas.
 
 `AZ-900` `AI-900` `DP-900` `PL-900` `MS-900` `SC-900` `ITIL` `LGPD`
 
