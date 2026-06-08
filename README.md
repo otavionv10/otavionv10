@@ -1,6 +1,6 @@
 # Olá, eu sou Otavio Rabello 👋
 
-**Analista de Suporte TI | Desenvolvedor Web | Ciêntista de Dados |Jornalista | Corretor de Imóveis**  
+**Analista de Suporte TI | Desenvolvedor Web | Ciêntista de Dados |Jornalista | Coaching | Corretor de Imóveis**  
 📍 São Paulo, SP &nbsp;|&nbsp; 📞 (11) 99378-6996 &nbsp;|&nbsp; ✉️ otavionv10@hotmail.com
 
 ---
@@ -43,6 +43,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 
 - 🎓 Pós-MBA em Ciência de Dados para Mercado Financeiro — **XPE** (2025)
 - 🎓 Pós-MBA em Jornalismo Digital — **Faculdade Iguaçu** (2025)
+- 🎓 Pós-MBA Executivo em Gestão de Pessoas, Desenvolvimento Geral e Coaching - 2025
 - 🎓 Tecnologia em Banco de Dados — **UNINOVE** (2023)
 - 🎓 Negócios Imobiliários — **Estácio** (2021)
 - 📖 Ciência de Dados (Cursando) — **CRAN Faculdade**
@@ -62,7 +63,8 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 - 📕 **Autor** de 7 livros publicados
 - 🏠 **Corretor de Imóveis** CRECISP 180170
 - 🎤 **Palestrante** no CRECI sobre tecnologias imobiliárias
-
+- 👥 **Gestão de equipes**
+- 🎯 **Coaching, foco**
 ---
 
 ## 🧠 Método OACR
