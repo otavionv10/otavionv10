@@ -23,6 +23,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 | [freela.app.br](https://freela.app.br) | Sistema de gestão para freelancers | PHP, MySQL |
 | [ondemorar.app.br](https://ondemorar.app.br) | Portal de busca de imóveis | PHP, MySQL |
 | [ccbverdade.com.br](https://ccbverdade.com.br) | Portal de notícias com 40+ países de audiência | PHP, MySQL |
+| [empresas360.com.br](https://empresas360.com.br) | Portal de consulta de Empresas com Ingeligência de Mercado | PHP, MySQL, Ciência de Dados  |
 
 ---
 
