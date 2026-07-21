@@ -1,6 +1,6 @@
 # Olá, eu sou Otavio Rabello 👋
 
-**Analista de Suporte TI | Desenvolvedor Web | Ciêntista de Dados |Jornalista | Coaching | Corretor de Imóveis**  
+**Analista de Suporte TI | Desenvolvedor Web | Cientista de Dados | Jornalista | Coaching | Corretor de Imóveis**  
 📍 São Paulo, SP &nbsp;|&nbsp; 📞 (11) 99378-6996 &nbsp;|&nbsp; ✉️ otavionv10@hotmail.com
 
 ---
@@ -23,7 +23,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 | [freela.app.br](https://freela.app.br) | Sistema de gestão para freelancers | PHP, MySQL |
 | [ondemorar.app.br](https://ondemorar.app.br) | Portal de busca de imóveis | PHP, MySQL |
 | [ccbverdade.com.br](https://ccbverdade.com.br) | Portal de notícias com 40+ países de audiência | PHP, MySQL |
-| [empresas360.com.br](https://empresas360.com.br) | Portal de consulta de Empresas com Ingeligência de Mercado | PHP, MySQL, Ciência de Dados  |
+| [empresas360.com.br](https://empresas360.com.br) | Portal de consulta de Empresas com Inteligência de Mercado | PHP, MySQL, Ciência de Dados  |
 
 ---
 
@@ -44,7 +44,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 
 - 🎓 Pós-MBA em Ciência de Dados para Mercado Financeiro — **XPE** (2025)
 - 🎓 Pós-MBA em Jornalismo Digital — **Faculdade Iguaçu** (2025)
-- 🎓 Pós-MBA Executivo em Gestão de Pessoas, Desenvolvimento Geral e Coaching - 2025
+- 🎓 Pós-MBA Executivo em Gestão de Pessoas, Desenvolvimento Geral e Coaching (2025)
 - 🎓 Tecnologia em Banco de Dados — **UNINOVE** (2023)
 - 🎓 Negócios Imobiliários — **Estácio** (2021)
 - 📖 Ciência de Dados (Cursando) — **CRAN Faculdade**
@@ -52,7 +52,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 
 ---
 
-## 🏆 Certificações em andamento - Cursos realizados prendente de fazer as provas.
+## 🏆 Certificações em andamento — Cursos realizados, pendente de fazer as provas
 
 `AZ-900` `AI-900` `DP-900` `PL-900` `MS-900` `SC-900` `ITIL` `LGPD`
 
@@ -66,6 +66,7 @@ Nos últimos anos comecei a desenvolver meus próprios sistemas web — platafor
 - 🎤 **Palestrante** no CRECI sobre tecnologias imobiliárias
 - 👥 **Gestão de equipes**
 - 🎯 **Coaching, foco**
+
 ---
 
 ## 🧠 Método OACR
