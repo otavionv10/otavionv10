@@ -28,6 +28,6 @@ Os casos completos, com pergunta, dados, método, resultado e limites, estão no
 
 ## Formação
 
-- Pós-MBA em Ciência de Dados para o Mercado Financeiro — XPE (2025)
+- Pós-MBA em Ciência de Dados para o Mercado Financeiro — XPE (2024)
 - Pós-MBA em Jornalismo Digital — Faculdade Iguaçu (2025)
 - Tecnologia em Banco de Dados — UNINOVE (2023)
