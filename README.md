@@ -1,82 +1,33 @@
-# Olá, eu sou Otavio Rabello 👋
+# Otávio Augusto Camara Rabello
 
-**Analista de Suporte TI | Desenvolvedor Web | Ciêntista de Dados |Jornalista | Coaching | Corretor de Imóveis**  
-📍 São Paulo, SP &nbsp;|&nbsp; 📞 (11) 99378-6996 &nbsp;|&nbsp; ✉️ otavionv10@hotmail.com
+**Cientista de Dados · Analista de Dados · Jornalista (MTb 0094382/SP)**
+São Paulo/SP · [Portfólio de dados](https://hubdropshipping.com.br/portfolio/dados/) · [LinkedIn](https://www.linkedin.com/in/otavionv10/) · otavionv10@hotmail.com
 
----
-
-## Sobre mim
-
-Profissional multidisciplinar com mais de **20 anos em Tecnologia da Informação** e atuação simultânea em jornalismo digital, mercado imobiliário e desenvolvimento de sistemas.
-
-Atualmente atuando como **Analista de Suporte II na Prodesp/Stefanini/Ilha Services**, prestando serviços para a Secretaria da Agricultura do Estado de SP, com suporte a mais de 75 cidades.
-
-Nos últimos anos comecei a desenvolver meus próprios sistemas web — plataformas SaaS que resolvo do zero: levantamento de requisitos, banco de dados, back-end PHP, front-end e deploy.
+Transformo dados públicos e de mercado em decisões: do download e da limpeza ao modelo, ao mapa e ao texto que explica o resultado para quem decide. Mais de 20 anos em tecnologia, Pós-MBA em Ciência de Dados para o Mercado Financeiro (XPE) e autor do livro *O Código do Mercado Imobiliário: como investir com métricas, não com achismo* (2025).
 
 ---
 
-## 🚀 Projetos que estou construindo
+## Projetos de dados
 
-| Projeto | O que é | Stack |
+| Projeto | O que mostra | Stack |
 |---|---|---|
-| [imobiliariainteligente.app.br](https://imobiliariainteligente.app.br) | Plataforma SaaS imobiliária com catálogo, gestão de empreendimentos, plantão de vendas e assinaturas | PHP, MySQL, JS |
-| [freela.app.br](https://freela.app.br) | Sistema de gestão para freelancers | PHP, MySQL |
-| [ondemorar.app.br](https://ondemorar.app.br) | Portal de busca de imóveis | PHP, MySQL |
-| [ccbverdade.com.br](https://ccbverdade.com.br) | Portal de notícias com 40+ países de audiência | PHP, MySQL |
-| [empresas360.com.br](https://empresas360.com.br) | Portal de consulta de Empresas com Ingeligência de Mercado | PHP, MySQL, Ciência de Dados  |
-| [plaseguros.com.br](https://plaseguros.com.br) | Portal de Vendas de Serviços de Seguros Diversos | PHP, MySQL |
-| [gpmotopecas.com.br]( http://gpmotopecas.com.br) | Loja virtual Motopeças | PHP, MySQL |
-| [regielistore.com.br]( http://regielistore.com.br) | Loja Virtual de Roupas | PHP, MySQL |
+| [**Inteligência do Voto**](https://github.com/otavionv10/inteligencia-do-voto) | Dados do TSE e do IBGE em escala nacional: 31 GB, 281 mil locais de votação, índice de prioridade, voto dividido e trajetória 2014–2022 | Python, DuckDB, SQL, Leaflet |
+| [**Carteira de Tendência B3**](https://github.com/otavionv10/carteira-tendencia-b3) | Pesquisa quantitativa sem viés de sobrevivência, walk-forward e Monte Carlo; carteira superou CDI e Ibovespa no backtest com metade da queda | Python, pandas, MetaTrader 5 |
+| **AVM de apartamentos SP** | Modelo de avaliação com LightGBM: erro médio de 14,0% e R² de 0,88 no teste, com SHAP e reprodutibilidade | Python, scikit-learn, LightGBM |
+| **Índice do Imóvel** | Mais de 20 indicadores imobiliários autorais, baseados no meu livro, com dados reais e uma cidade sintética validada | Python, PHP, MySQL, PostGIS |
+| [**OACR**](https://github.com/otavionv10/oacr) | Método para trabalhar com IA em projetos reais sem perder contexto entre sessões | Markdown |
 
----
+Os casos completos, com pergunta, dados, método, resultado e limites, estão no [**portfólio de dados**](https://hubdropshipping.com.br/portfolio/dados/).
 
-## 🛠️ Tecnologias
+## Ferramentas
 
-**Desenvolvimento Web**  
-`PHP` `MySQL` `JavaScript` `HTML` `CSS` `REST APIs` `PHPMailer` `MercadoPago`
+**Dados:** Python, pandas, SQL, DuckDB, PostgreSQL/PostGIS, MySQL, scikit-learn, LightGBM, SHAP
+**Visualização:** Power BI, Leaflet, Chart.js, Streamlit
+**Engenharia:** ETL, coleta automatizada, APIs REST, Docker, Git
+**Fontes que uso:** TSE, IBGE, B3, Banco Central, Receita Federal, FipeZAP
 
-**Dados & Cloud**  
-`Python` `Power BI` `Big Data` `Azure` `AWS` `SharePoint` `Microsoft 365`
+## Formação
 
-**Infraestrutura**  
-`Redes` `Servidores Windows/Linux` `Firewall` `VPN` `ITIL` `Active Directory`
-
----
-
-## 📚 Formação
-
-- 🎓 Pós-MBA em Ciência de Dados para Mercado Financeiro — **XPE** (2025)
-- 🎓 Pós-MBA em Jornalismo Digital — **Faculdade Iguaçu** (2025)
-- 🎓 Pós-MBA Executivo em Gestão de Pessoas, Desenvolvimento Geral e Coaching - 2025
-- 🎓 Tecnologia em Banco de Dados — **UNINOVE** (2023)
-- 🎓 Negócios Imobiliários — **Estácio** (2021)
-- 📖 Ciência de Dados (Cursando) — **CRAN Faculdade**
-- 📖 Neurociências Cognitivas e Processos Psicológicos (Cursando) — **Faculdade Iguaçu** (2025)
-
----
-
-## 🏆 Certificações em andamento - Cursos realizados prendente de fazer as provas.
-
-`AZ-900` `AI-900` `DP-900` `PL-900` `MS-900` `SC-900` `ITIL` `LGPD`
-
----
-
-## ✍️ Além da tecnologia
-
-- 📰 **Jornalista** com DRT MTb 0094382/SP — 10 anos como repórter investigativo
-- 📕 **Autor** de 7 livros publicados
-- 🏠 **Corretor de Imóveis** CRECISP 180170
-- 🎤 **Palestrante** no CRECI sobre tecnologias imobiliárias
-- 👥 **Gestão de equipes**
-- 🎯 **Coaching, foco**
----
-
-## 🧠 Método OACR
-
-Criei o **OACR** — um método de trabalho colaborativo entre humanos e IA para projetos de software, que garante continuidade entre sessões sem perda de contexto.
-
-👉 [Ver o método no GitHub](https://github.com/otavionv10/oacr)
-
----
-
-*"Tecnologia é a ferramenta, o propósito é o que importa."*
+- Pós-MBA em Ciência de Dados para o Mercado Financeiro — XPE (2025)
+- Pós-MBA em Jornalismo Digital — Faculdade Iguaçu (2025)
+- Tecnologia em Banco de Dados — UNINOVE (2023)
