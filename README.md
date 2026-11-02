@@ -11,7 +11,7 @@ Transformo dados públicos e de mercado em decisões: do download e da limpeza a
 
 | Projeto | O que mostra | Stack |
 |---|---|---|
-| [**Inteligência do Voto**](https://github.com/otavionv10/inteligencia-do-voto) | Dados do TSE e do IBGE em escala nacional: 31 GB, 281 mil locais de votação, índice de prioridade, voto dividido e trajetória 2014–2022 | Python, DuckDB, SQL, Leaflet |
+| [**Inteligência do Voto**](https://github.com/otavionv10/inteligencia-do-voto) | Dados do TSE e do IBGE em escala nacional: 281 mil locais de votação, índice de prioridade, voto dividido e trajetória 2014–2022 | Python, DuckDB, SQL, Leaflet |
 | [**Carteira de Tendência B3**](https://github.com/otavionv10/carteira-tendencia-b3) | Pesquisa quantitativa sem viés de sobrevivência, walk-forward e Monte Carlo; carteira superou CDI e Ibovespa no backtest com metade da queda | Python, pandas, MetaTrader 5 |
 | **AVM de apartamentos SP** | Modelo de avaliação com LightGBM: erro médio de 14,0% e R² de 0,88 no teste, com SHAP e reprodutibilidade | Python, scikit-learn, LightGBM |
 | **Índice do Imóvel** | Mais de 20 indicadores imobiliários autorais, baseados no meu livro, com dados reais e uma cidade sintética validada | Python, PHP, MySQL, PostGIS |
